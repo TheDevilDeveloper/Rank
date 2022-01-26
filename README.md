@@ -6,31 +6,31 @@ A PocketMine plugin to create custom ranks and permissions manager!
     <br>Usage - /rank add <rank_name><br>
   <br>Example - /rank add ExampleRank<br>
 
-/rank del - deletes ranks!
-    Usage - /rank del <rank_name>
-  Example - /rank del ExampleRank
+<br>/rank del - deletes ranks!<br>
+    <br>Usage - /rank del <rank_name><br>
+  <br>Example - /rank del ExampleRank<br>
 
-/rank set - sets rank to a specific player!
-    Usage - /rank set <player> <rank>
-  Example - /rank set xDr3m ExampleRank
+<br>/rank set - sets rank to a specific player!<br>
+    <br>Usage - /rank set <player> <rank><br>
+  <br>Example - /rank set xDr3m ExampleRank<br>
 
-/rank addperm - adds perm to a specific rank!
-    Usage - /rank addperm <rank> <permission>
-  Example - /rank addperm ExampleRank pocketmine.command.give
+<br>/rank addperm - adds perm to a specific rank!<br>
+    <br>Usage - /rank addperm <rank> <permission><br>
+  <br>Example - /rank addperm ExampleRank pocketmine.command.give<br>
 
-/rank delperm - removes perm from a specific rank!
-    Usage - /rank delperm <rank> <permission>
-  Example - /rank delperm ExampleRank pocketmine.command.give
+<br>/rank delperm - removes perm from a specific rank!<br>
+    <br>Usage - /rank delperm <rank> <permission><br>
+  <br>Example - /rank delperm ExampleRank pocketmine.command.give<br>
 
-/rank format - sets a rank format to a specific rank!
-    Usage - /rank format [name|chat] <rank> <format>
-  Example(name) - /rank format name ExampleRank §r[§eNoob§r] {player_name}
-  Example(chat) - /rank format chat ExampleRank §r[§eNoob§r] {player_name} §b> {msg}
+<br>/rank format - sets a rank format to a specific rank!<br>
+    <br>Usage - /rank format [name|chat] <rank_name> <format><br>
+  <br>Example(name) - /rank format name ExampleRank §r[§eNoob§r] {player_name}<br>
+  <br>Example(chat) - /rank format chat ExampleRank §r[§eNoob§r] {player_name} §b> {msg}<br>
 
-/rank list - check the list of the ranks you created!
-    Usage - /rank list
+<br>/rank list - check the list of the ranks you created!<br>
+    <br>Usage - /rank list<br>
 
 # Credits
-  Plugin By @TheDevilDeveloper
-  Readme.md by @PROGAMER2385
+  <br>Plugin By @TheDevilDeveloper<br>
+  <br>Readme.md by @PROGAMER2385<br>
   

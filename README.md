@@ -11,15 +11,15 @@ A PocketMine plugin to create custom ranks and permissions manager!
   <br>Example - /rank del ExampleRank<br>
 
 <br>/rank set - sets rank to a specific player!<br>
-    <br>Usage - /rank set <player> <rank><br>
+    <br>Usage - /rank set <player_name> <rank_name><br>
   <br>Example - /rank set xDr3m ExampleRank<br>
 
 <br>/rank addperm - adds perm to a specific rank!<br>
-    <br>Usage - /rank addperm <rank> <permission><br>
+    <br>Usage - /rank addperm <rank_name> <permission><br>
   <br>Example - /rank addperm ExampleRank pocketmine.command.give<br>
 
 <br>/rank delperm - removes perm from a specific rank!<br>
-    <br>Usage - /rank delperm <rank> <permission><br>
+    <br>Usage - /rank delperm <rank_name> <permission><br>
   <br>Example - /rank delperm ExampleRank pocketmine.command.give<br>
 
 <br>/rank format - sets a rank format to a specific rank!<br>

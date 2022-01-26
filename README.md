@@ -1,5 +1,5 @@
 # Ranks
-A PocketMine plugin to create custom ranks and add permissions!
+A PocketMine plugin to create custom ranks and permissions manager!
 
 # Commands
 /rank add - adds ranks!

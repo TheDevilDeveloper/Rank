@@ -30,6 +30,9 @@ A PocketMine plugin to create custom ranks and permissions manager!
 /rank list - check the list of the ranks you created!
     Usage - /rank list
 
+![Ranks-Image]
+(https://media.discordapp.net/attachments/804598557159587860/935872805008998430/IMG_20220126_173956.jpg)
+
 # Credits
   Plugin By @TheDevilDeveloper
   Readme.md by @PROGAMER2385

@@ -1,0 +1,15 @@
+name: Ranks 
+author: DevilDev 
+version: 1.0.0 
+api: 4.0.0 
+main: rank\Ranks 
+
+commands: 
+  rank:
+    discription: "Add Rank For A Player"
+    permission: rank.commands
+
+permissions: 
+  rank.commands: 
+    discription: Main Rank Permission
+    default: op

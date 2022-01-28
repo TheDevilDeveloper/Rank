@@ -1,9 +1,10 @@
 # Ranks
 A PocketMine plugin to create custom ranks and permissions manager!
 
-# Commands
+##Commands
 
 Command | Usage | Example
+--- | --- | ---
 '/rank add - adds ranks!' | /rank add <rank_name> | /rank add ExampleRank
 
 <br>/rank del - deletes ranks!<br>
